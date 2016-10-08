@@ -13,6 +13,7 @@ public class Host {
 
 		proxySubject.doSomeThing("zzl");
 		proxySubject.doGoodThing("zilong");
+		//test 
 	}
 
 }
